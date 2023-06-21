@@ -33,5 +33,9 @@ The bot will then start running.
 * Complete quests.
 * Bypass the verification bot.
 
-## License
+## Contributing
 
+If you find any bugs or have any suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+## License
+The code is licensed under the MIT License.
